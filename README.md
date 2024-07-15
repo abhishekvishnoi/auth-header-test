@@ -1,3 +1,5 @@
+https://auth-header-test-abhishek.apps.cluster-r9spc.dynamic.redhatworkshops.io/
+
 # auth-header-test
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
